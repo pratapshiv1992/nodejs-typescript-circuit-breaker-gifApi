@@ -1,1 +1,1 @@
-# nodejs-circuit-breaker-api
+# nodejs-typescript-circuit-breaker-api
