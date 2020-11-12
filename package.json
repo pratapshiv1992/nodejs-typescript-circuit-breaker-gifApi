@@ -2,18 +2,8 @@
   "name": "nodejs-typescript-circuit-breaker-gifApi",
   "version": "1.0.0",
   "description": "Example of node.js, typescript, express.js, circuit-breaker-patter, gif API",
-  "keywords": [
-    "nodejs",
-    "typescript",
-    "express",
-    "circuit-breaker-pattern",
-    "gif API"
-  ],
-  "author": {
-    "name": "Shiv pratap singh",
-    "email": "pratapshiv1992@gmail.com",
-    "url": "https://github.com/pratapshiv1992/"
-  },
+  "keywords": [],
+  "author": "",
   "main": "index.ts",
   "scripts": {
     "start": "ts-node --fast ./src/index.ts",
@@ -24,23 +14,25 @@
     "type": "git",
     "url": "git+https://github.com/pratapshiv1992/nodejs-typescript-circuit-breaker-gifApi.git"
   },
-  "keywords": [],
-  "author": "",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/pratapshiv1992/nodejs-typescript-circuit-breaker-gifApi/issues"
   },
   "homepage": "https://github.com/pratapshiv1992/nodejs-typescript-circuit-breaker-gifApi.git#readme",
   "dependencies": {
+    "axios": "^0.21.0",
     "body-parser": "^1.19.0",
     "cors": "^2.8.5",
     "dotenv": "^8.2.0",
     "express": "^4.17.1",
     "morgan": "^1.9.1",
     "nodemon": "^1.19.1",
+    "opossum": "^5.0.2",
     "q": "^1.5.1"
   },
   "devDependencies": {
+    "@types/axios": "^0.14.0",
+    "@types/opossum": "^4.1.1",
     "@types/body-parser": "^1.16.8",
     "@types/express": "^4.0.39",
     "@types/morgan": "^1.7.35",
