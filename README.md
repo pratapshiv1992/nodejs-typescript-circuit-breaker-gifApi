@@ -1,4 +1,4 @@
-# nodejs-typescript-circuit-breaker-api
+# nodejs-typescript-circuit-breaker-gifApi
 
 
 Example of node.js, typescript, express.js, circuit-breaker-patter, gif API
