@@ -22,7 +22,8 @@ Example of node.js, typescript, express.js, circuit-breaker-patter, gif API
 
 - `npm install`: installs the dependency
 - `npm run dev`: start development server watching changes in ./src
-- `npm start`: start production server running the compiled app 
+- `npm start`: start production server running the compiled app
 
+## :man_astronaut: Show your support
 
-
+Give a ⭐️ if this project helped you! 

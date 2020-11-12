@@ -35,8 +35,7 @@
     "express": "^4.17.1",
     "morgan": "^1.9.1",
     "nodemon": "^1.19.1",
-    "opossum": "^5.0.2",
-    "q": "^1.5.1"
+    "opossum": "^5.0.2"
   },
   "devDependencies": {
     "@types/axios": "^0.14.0",
