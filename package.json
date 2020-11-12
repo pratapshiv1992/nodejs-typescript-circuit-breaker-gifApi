@@ -1,7 +1,19 @@
 {
   "name": "nodejs-typescript-circuit-breaker-gifApi",
   "version": "1.0.0",
-  "description": "",
+  "description": "Example of node.js, typescript, express.js, circuit-breaker-patter, gif API",
+  "keywords": [
+    "nodejs",
+    "typescript",
+    "express",
+    "circuit-breaker-pattern",
+    "gif API"
+  ],
+  "author": {
+    "name": "Shiv pratap singh",
+    "email": "pratapshiv1992@gmail.com",
+    "url": "https://github.com/pratapshiv1992/"
+  },
   "main": "index.ts",
   "scripts": {
     "start": "ts-node --fast ./src/index.ts",
