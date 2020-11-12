@@ -1,7 +1,7 @@
-import * as express from 'express';
+import * as Express from "express";
 import gifAPis from './gif';
 
-const router = express.Router();
+const router: Express.Router = Express.Router();
 
 router.use(gifAPis);
 

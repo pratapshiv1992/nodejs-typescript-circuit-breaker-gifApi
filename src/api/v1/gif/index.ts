@@ -1,8 +1,8 @@
-import * as express from 'express';
+import * as Express from "express";
 
-const router = express.Router();
+const router: Express.Router = Express.Router();
 
-router.get('/gifSearch', (req, res) => {
+router.get('/gifSearch', (req: Express.Request, res: Express.Response) => {
     return res.send('dummy gifSearch API response.');
 });
 
