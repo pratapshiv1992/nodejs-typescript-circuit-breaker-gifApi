@@ -1,14 +1,14 @@
 require('dotenv').config()
-import * as express from 'express';
+import * as Express from 'express';
 import apiRoutes from './api';
 import middleWares from './middlewares'
 
-const port = process.env.port || 4000;
-const app = express();
+const PORT: string | number = process.env.port || 4000;
+const app: Express.Application = Express();
 app.use(middleWares);
 app.use(apiRoutes);
-app.listen(port, () => {
-    console.log(`[Server] listening on port ${port}`);
+app.listen(PORT, () => {
+    console.log(`[Server] listening on port ${PORT}`);
 });
 
 export default app;
