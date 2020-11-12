@@ -1,5 +1,5 @@
 {
-  "name": "nodejs-typescript-circuit-breaker-api.git",
+  "name": "nodejs-typescript-circuit-breaker-gifApi",
   "version": "1.0.0",
   "description": "",
   "main": "index.ts",
@@ -10,15 +10,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/pratapshiv1992/nodejs-typescript-circuit-breaker-api.git"
+    "url": "git+https://github.com/pratapshiv1992/nodejs-typescript-circuit-breaker-gifApi.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/pratapshiv1992/nodejs-typescript-circuit-breaker-api.git/issues"
+    "url": "https://github.com/pratapshiv1992/nodejs-typescript-circuit-breaker-gifApi/issues"
   },
-  "homepage": "https://github.com/pratapshiv1992/nodejs-typescript-circuit-breaker-api.git#readme",
+  "homepage": "https://github.com/pratapshiv1992/nodejs-typescript-circuit-breaker-gifApi.git#readme",
   "dependencies": {
     "body-parser": "^1.19.0",
     "cors": "^2.8.5",
